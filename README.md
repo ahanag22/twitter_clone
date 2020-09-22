@@ -22,8 +22,7 @@ Devise - user roles and authentication
 Gravatar_image_tag - Integrated image tag which spits out gravatars.
 
 
-* Ruby version
-ruby 2.6.6p146
+* Ruby version - ruby 2.6.6p146
 
 * System dependencies
 
